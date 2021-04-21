@@ -208,12 +208,14 @@ export default function Home() {
                   React Native, SqLite for mobile platform.
                 </li>
                 </a>
+                <a target="_blank" className="text-blue-600" href="http://se.cit.ctu.edu.vn">
                 <li>
                   - Jan 27 2021 (Maintaining): Secit, working with a team to
                   build website for a University Department. Technology used:
                   NodeJS as back-end, VueJS for front-end, PostgreSQL for
                   database.
                 </li>
+                </a>
                 <a target="_blank" className="text-blue-600" href="https://github.com/tchanhtinh/dotfiles-that-suckless">
                 <li>
                   - Feb 19 2021 (Maintaining): Dotfiles-that-suckless, a
@@ -239,14 +241,14 @@ export default function Home() {
                         src="https://www.youtube.com/embed/4yORgcxv1Ec"
                         width="580px"
                         height="360px"
-                        frameborder="0"
+                        frameBorder="0"
                       />
                       <iframe
                         id="ytplayer"
                         src="https://www.youtube.com/embed/Wtlh6792kNg"
                         width="580px"
                         height="360px"
-                        frameborder="0"
+                        frameBorder="0"
                       />
                     </div>
                     <div className="flex space-x-14">
@@ -255,14 +257,14 @@ export default function Home() {
                         src="https://www.youtube.com/embed/o4lKrkIdEDI"
                         width="580px"
                         height="360px"
-                        frameborder="0"
+                        frameBorder="0"
                       />
                       <iframe
                         id="ytplayer"
                         src="https://www.youtube.com/embed/bshu4--YQMU"
                         width="580px"
                         height="360px"
-                        frameborder="0"
+                        frameBorder="0"
                       />
                     </div>
                   </div>
