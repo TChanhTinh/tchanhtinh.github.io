@@ -188,8 +188,8 @@ export default function Home() {
               <p className="font-bold">Timeline</p>
               <ul className="flex flex-col space-y-2">
                 <li>
-                  - Jun 14 2019: Canopus-Showcase, work with a team as a intern
-                  in FSoft on a project that visualization OCR JSON data to web
+                  - Jun 14 2019: Canopus-Showcase, work with a team
+                  in FSoft as a intern on a project that visualization OCR JSON data to web
                   application.
                 </li>
                 <a target="_blank" className="text-blue-600" href="https://github.com/tchanhtinh/catpaws">
